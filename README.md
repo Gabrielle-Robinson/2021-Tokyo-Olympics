@@ -11,4 +11,6 @@ Using pyspark sql I made a SQL query to determine the count of coaches from each
 
 Using pyspark sql once again I gathered the count of athletes in each country representing each discipline at the Olypmics. With this information I created a bar char of the altletes from each country per discipline, deducing that the top five discplines at the Olympics were Athletics (2068), Swimming (743), Football (567), Rowing (496), and Hockey (406). I once again created a bar char of the number of athletes splits by the top thress disciplines.
 
+The last data visualization made was multiple subplots representing the percentages of males and females in each discipline. This was accomplished by specifying the ogranizational layout of the pie caharts and then specifying the number of columns and rows for each pie chart. Then I created a loop that added a subplot after another subplot by using the iterrow function. From there I used pandas to identify the differents teams representing a country and which event the teans was in.
+
 # Download Data
