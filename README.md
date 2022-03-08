@@ -1,5 +1,5 @@
 # 2021-Tokyo-Olympics
-Quick analysis overview of the 2021 Tokyo Olympics
+Quick analysis of the 2021 Tokyo Olympics
 
 # About the project
 This project is about using data from the 2021 Tokyo Olympics to create barcharts and piecharts that identify particular trends. 
@@ -14,3 +14,4 @@ Using pyspark sql once again I gathered the count of athletes in each country re
 The last data visualization made was multiple subplots representing the percentages of males and females in each discipline. This was accomplished by specifying the ogranizational layout of the pie caharts and then specifying the number of columns and rows for each pie chart. Then I created a loop that added a subplot after another subplot by using the iterrow function. From there I used pandas to identify the differents teams representing a country and which event the teans was in.
 
 # Download Data
+To download data, clone this repo using git clone https://github.com/Gabrielle-Robinson/2021-Tokyo-Olympics, open the file '2021-olympics-in-tokyo.zip', then download and unzip file. 
