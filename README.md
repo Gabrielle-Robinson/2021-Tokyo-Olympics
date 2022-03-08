@@ -1,7 +1,7 @@
 # 2021-Tokyo-Olympics
 Quick analysis overview of the 2021 Tokyo Olympics
 
-#About the project
+# About the project
 This project is about using data from the 2021 Tokyo Olympics to create barcharts and piecharts that identify particular trends. 
 The dataset contains the details of over 11,000 athletes, with 47 disciplines, along with 743 teams taking part in the 2021 Tokyo Olympics. It includes details of the Athletes' name, countries their representing, discipline, gender, and their medals they won, and coaches' name.
 
@@ -11,4 +11,4 @@ Using pyspark sql I made a SQL query to determine the count of coaches from each
 
 Using pyspark sql once again I gathered the count of athletes in each country representing each discipline at the Olypmics. With this information I created a bar char of the altletes from each country per discipline, deducing that the top five discplines at the Olympics were Athletics (2068), Swimming (743), Football (567), Rowing (496), and Hockey (406). I once again created a bar char of the number of athletes splits by the top thress disciplines.
 
-#Download Data
+# Download Data
