@@ -15,3 +15,6 @@ The last data visualization made was multiple subplots representing the percenta
 
 # Download Data
 To download data, copy this repo using git clone https://github.com/Gabrielle-Robinson/2021-Tokyo-Olympics, open the file '2021-olympics-in-tokyo.zip', then download and unzip file. 
+
+# How to Run
+Open file '2021_Tokyo_Olympics.ipynb', click 'Open in Colab', then run code.
